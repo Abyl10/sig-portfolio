@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  box-sizing: border-box; 
+}
+
+body {
+  display: flex; 
+  align-items:center;
+  justify-content: center;
+  height: 100vh;
+  background-color: aqua; 
+}
+
+div {
+  border: 1px solid red; 
+}
+
+.main {
+  padding: 25px; 
+  background-color: pink;
+}
+
